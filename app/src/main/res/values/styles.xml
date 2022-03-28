@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="YellowRoundButton" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:background">@drawable/round_shape</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="YellowDemiRoundButton" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:background">@drawable/demi_round_shape</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:backgroundTint">@color/main_yellow</item>
+    </style>
+
+    <style name="BlueStandardText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/dark_blue</item>
+        <item name="android:fontFamily">@font/solway_medium</item>
+    </style>
+
+    <style name="StandardInputField" parent="Widget.AppCompat.EditText">
+        <item name="android:ems">10</item>
+        <item name="android:background">@drawable/demi_round_shape</item>
+        <item name="android:backgroundTint">@color/light_gray</item>
+        <item name="android:textColor">@color/dark_blue</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:paddingEnd">16dp</item>
+        <item name="android:paddingStart">16dp</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:inputType">text</item>
+    </style>
+
+
+</resources>

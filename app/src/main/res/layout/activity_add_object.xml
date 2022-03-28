@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AddObjectActivity">
+    <TextView
+        style="@style/BlueStandardText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="40dp"
+        android:textSize="26sp"
+
+        android:text="Add a note" />
+
+
+
+    <EditText
+        style="@style/StandardInputField"
+        android:id="@+id/editTextTitleField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:hint="Titlu"
+       />
+
+
+    <EditText
+        style="@style/StandardInputField"
+        android:id="@+id/editTextFullNoteField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:paddingBottom="200dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:hint="Write your ideas here" />
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        style="@style/YellowDemiRoundButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:fontFamily="@font/solway_medium"
+        android:id="@+id/createAddNoteButton"
+        android:text="Create">
+
+
+    </androidx.appcompat.widget.AppCompatButton>
+
+</LinearLayout>

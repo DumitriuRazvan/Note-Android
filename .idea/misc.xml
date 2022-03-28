@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.5407407407407407" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/drawable/demi_round_shape.xml" value="0.5" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/drawable/full_round_shape.xml" value="0.25" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.5407407407407407" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/drawable/ic_home.xml" value="0.5407407407407407" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.5407407407407407" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/drawable/ic_note.xml" value="0.5407407407407407" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/drawable/ic_search.xml" value="0.5407407407407407" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/drawable/ic_settings.xml" value="0.3037037037037037" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/drawable/ic_web.xml" value="0.5407407407407407" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/drawable/item_selector.xml" value="0.3037037037037037" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/drawable/round_button_shape.xml" value="0.5703125" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/drawable/round_shape.xml" value="0.5703125" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/font/solway_medium.xml" value="0.3609375" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/layout/activity_add_object.xml" value="0.5" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/layout/activity_camera.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/layout/activity_recycler.xml" value="0.2" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/layout/activity_view_object.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/layout/card_layout.xml" value="0.5" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/layout/fragment_network.xml" value="0.42391304347826086" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/layout/fragment_notes.xml" value="0.5" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/layout/fragment_settings.xml" value="0.33" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/layout/item_super_heroes.xml" value="0.3296875" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/menu/item_menu.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/menu/main_menu.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/menu/searchview.xml" value="0.3296875" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.5407407407407407" />
+        <entry key="..\:/Users/Teodor/Desktop/TemeExterne/Noter/Note-app-android/app/src/main/res/xml/provider_paths.xml" value="0.3333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
